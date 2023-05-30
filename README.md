@@ -3,7 +3,7 @@
 This repository contains code for a toxicity detection model using attention in TensorFlow. The model analyzes comments and predicts the toxicity level, and provides an attention visualization to highlight important words.
 
 ## Demo
-![Demo Image](images/demo.png)
+![Demo Image](images/demo.PNG)
 
 ## Dataset
 
